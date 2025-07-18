@@ -40,6 +40,3 @@ total_playtime = reduce(sumar_tiempo, playlist, 0)
 print(filtered_songs) 
 print(convert_to_seconds)
 print(total_playtime)
-
-
-

@@ -17,9 +17,3 @@ double_numbers = apply_operation(double, numbers_list)
 
 print(f'Original Numbers: {numbers_list}')
 print(f'Double Numbers: {double_numbers}')
-
-
-
-
-
-

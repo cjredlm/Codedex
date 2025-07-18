@@ -20,14 +20,3 @@ with open('Bestseller - Sheet1.csv' ,  'r', newline='') as file:
 
 
 
-
-
-
-
-
-
-
-
-
-
-

@@ -1,4 +1,3 @@
-# Write code below 💖
 
 dna_sequence = ['GCT', 'AGC', 'AGG', 'TAA', 'ACT', 'CAT', 'TAT', 'CCC', 'ACG', 'GAA', 'ACC', 'GGA']
 
@@ -17,3 +16,5 @@ if item_found == True:
    print('¡Artículo encontrado!')
 else:
    print('Item not found')
+
+
