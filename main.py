@@ -2,7 +2,7 @@
 dna_sequence = ['GCT', 'AGC', 'AGG', 'TAA', 'ACT', 'CAT', 'TAT', 'CCC', 'ACG', 'GAA', 'ACC', 'GGA']
 
 
-item_to_find = 'AGC'
+item_to_find = 'GCT'
 
 item_found = False
 
