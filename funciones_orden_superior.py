@@ -1,19 +1,10 @@
 
 
-def apply_operation(operation, numbers):
-    result = []
-    for num in numbers:
-     result.append(operation(num))
-    return result
-    
-def double(x):
-    return x * 2
-    
+human_age = 1
 
-numbers_list = [1,2,3,4,5,6]
+def dog_years(name, age):
+  human_age = age * 7
+  return f"{name} is {human_age} years old in human years."
 
 
-double_numbers = apply_operation(double, numbers_list)
-
-print(f'Original Numbers: {numbers_list}')
-print(f'Double Numbers: {double_numbers}')
+print(dog_years('kiara',9))
